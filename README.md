@@ -1,4 +1,4 @@
-# Hospital_Data_Management-
+# Hospital_Data_Management
 Hospital Management System – SQL Project
 Hospital Management System – MySQL Project
 
